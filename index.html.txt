@@ -20,7 +20,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to My Sample HTML Page</h1>
+    <h1>Welcome to My Sample paghe Prashanth</h1>
     <p>This is a simple paragraph to show how text looks in HTML.</p>
     <ul>
         <li>First list item</li>
