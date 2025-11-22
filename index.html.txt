@@ -1,32 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sample HTML Page</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            color: #666;
-        }
-    </style>
-</head>
+<html>
 <body>
-    <h1>Welcome to My Sample paghe Prashanth</h1>
-    <p>This is a simple paragraph to show how text looks in HTML.</p>
-    <ul>
-        <li>First list item</li>
-        <li>Second list item</li>
-        <li>Third list item</li>
-    </ul>
-    <p>Visit <a href="https://www.example.com">Example Website</a> for more info.</p>
+<h2>Hai, Welcome to the Mavenwebapp using Jenkins</h2>
 </body>
 </html>
